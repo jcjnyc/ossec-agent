@@ -1,0 +1,2 @@
+# ossec-agent
+default agent
